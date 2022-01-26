@@ -1,5 +1,5 @@
 repositories {
-	maven { url 'http://maven.microblink.com' }
+	maven { url 'https://maven.microblink.com' }
 }
 
 dependencies {

@@ -1,0 +1,22 @@
+{
+    "name": "com.os.mobile.blinkid",
+    "version": "0.0.3",
+    "description": "",
+    "cordova": {
+      "id": "com.os.mobile.blinkid",
+      "platforms": [
+          "android",
+          "ios"
+      ]
+    },
+    "keywords": [
+      "ecosystem:cordova",
+      "microblink",
+      "outsystems"
+    ],
+    "author": "Outsystems",
+    "license": "ISC",
+    "dependencies": {
+      "adm-zip": "^0.4.13"
+      }
+  }
